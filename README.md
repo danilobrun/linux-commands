@@ -55,6 +55,7 @@ Mais comandos:
 - `tree` - mostra a árvore do diretório atual
   - `-d` - diretórios
   - `-a` - mostra arquivos ocultos
+  - `tree -d -L 1` - diretórios por níveis (-L 2, -L 3...)
 - `cat` - concatena e/ou mostra o conteúdo de um arquivo
   - `-n` - enumera as linhas
 - `tail` - lista as últimas linhas do arquivo
